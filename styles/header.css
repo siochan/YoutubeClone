@@ -6,8 +6,6 @@
 }
 
 .left-section{
-  background-color: lightblue;
-  width: 200px;
   display: flex;
   align-items: center;
 }
