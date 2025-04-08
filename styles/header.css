@@ -39,6 +39,7 @@
   border-color: rgb(192, 192, 192);
   border-radius: 2px;
   box-shadow: inset 1px 2px 3px rgba(0, 0, 0, 0.05);
+  width: 0;
 }
 
 .search-bar::placeholder {
@@ -81,6 +82,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-shrink: 0;
 }
 
 .upload-icon {
